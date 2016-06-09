@@ -4,6 +4,12 @@
 - grass:   #41B06E
 - galaxy:   #141E46
 */
+:root {
+    --cream:   #FFF5E0;
+    --algae:   #8DECB4;
+    --grass:   #41B06E;
+    --galaxy:   #141E46;
+}
 
 * {
     margin: 0;
