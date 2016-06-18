@@ -19,4 +19,38 @@
 body {
     background: var(--cream);
     color: var(--galaxy);
+    font-family: 'Helvetica';
+}
+
+.container {
+    padding: 40px;
+}
+
+.avatar-img {
+    border: 2px solid var(--galaxy);
+}
+
+.title {
+    margin: 20px 0;
+}
+
+.details {
+    margin-bottom: 15px;
+}
+
+.details-list{
+    margin-bottom: 10px;
+}
+
+.pop-box {
+    width: 400px;
+}
+
+.btn {
+    background-color: var(--galaxy);
+    color: var(--cream);
+}
+
+.attr {
+    color: var(--grass);
 }
