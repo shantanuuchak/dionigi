@@ -27,7 +27,7 @@ body {
 }
 
 .avatar-img {
-    border: 2px solid var(--galaxy);
+    border: 5px solid var(--grass);
 }
 
 .title {
@@ -35,22 +35,35 @@ body {
 }
 
 .details {
-    margin-bottom: 15px;
-}
-
-.details-list{
     margin-bottom: 10px;
 }
 
+.details-list li {
+    margin-bottom: 8px;
+}
+
 .pop-box {
-    width: 400px;
+    margin: 20px 0;
+}
+
+#data-input,
+.btn {
+    display: block;
+    width: 300px;
+    padding: 5px 10px;
+}
+
+#data-input {
+    margin-bottom: 10px;
 }
 
 .btn {
     background-color: var(--galaxy);
     color: var(--cream);
+    border: none;
+    font-weight: bold;
 }
 
 .attr {
-    color: var(--grass);
+    color: var(--algae);
 }
