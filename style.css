@@ -19,7 +19,7 @@
 body {
     background: var(--cream);
     color: var(--galaxy);
-    font-family: 'Helvetica';
+    font-family: 'Georgia';
 }
 
 .container {
@@ -51,6 +51,7 @@ body {
     display: block;
     width: 300px;
     padding: 5px 10px;
+    font-family: inherit;
 }
 
 #data-input {
@@ -62,8 +63,9 @@ body {
     color: var(--cream);
     border: none;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .attr {
-    color: var(--algae);
+    color: var(--grass);
 }
