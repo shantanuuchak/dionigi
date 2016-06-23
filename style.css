@@ -4,6 +4,11 @@
 - grass:   #41B06E
 - galaxy:   #141E46
 */
+@font-face{
+    src: url('GEORGIA.TTF');
+    font-family: 'Customgia';
+}
+
 :root {
     --cream: #FFF5E0;
     --algae: #8DECB4;
@@ -19,7 +24,7 @@
 body {
     background: var(--cream);
     color: var(--galaxy);
-    font-family: 'Georgia';
+    font-family: 'Customgia';
 }
 
 .container {
