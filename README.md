@@ -1,3 +1,3 @@
-# Persona Card
+# Dionigi Card
 
-Digital persona card for the web
+Digital card for the web with a historical taste
