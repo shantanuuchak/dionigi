@@ -1,3 +1,6 @@
 # Dionigi Card
 
-Digital card for the web with a historical taste
+Tribute digital card for Renzo Dionigi
+
+## Showcase
+![Image](./dionigi-demo.png)
